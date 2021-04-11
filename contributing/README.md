@@ -12,8 +12,3 @@
 - [Numpy docstrings](https://numpydoc.readthedocs.io/en/latest/example.html#example)
 - [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
----
-
-#### doctest 
-- reference:  https://docs.python.org/3.7/library/doctest.html#doctest.ELLIPSIS
-- explanation:  https://github.com/scikit-learn/scikit-learn/pull/12799#discussion_r242147232
