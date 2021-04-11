@@ -24,7 +24,7 @@
 (Time given in [CET](https://time.is/CET))
 
 ## Post-sprint
-* Post-event feedback survey: https://forms.gle/acvpavnHs2xHGE9n8
+* Post-event feedback survey: to-be-posted
 
 For continued support and following up on your pull requests
 * NumPy will invite participants to join their bi-weekly community meetings, Slack channel and "newcomer's hour"
