@@ -1,6 +1,6 @@
 # Contributing Resources
 - [Software Requirements](installs_prep.md) (installation: Anaconda and more)
-- [Contributing Workflow](workflow.md)
+
 
 ## Resources
 - [Matti Picus: Getting Involved with Numpy](https://www.youtube.com/watch?v=lHJqOE5j6xE&t=512s)
