@@ -77,7 +77,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 
 ### Support Open Source
 - There is no charge for the sprint. We ask you to donate a nominal amount ($5 to $10) [to NumFOCUS](https://numfocus.org/donate) to support open source.
-  - For "Donation Dedication:"  indicate "scikit-learn"
+  - For "Donation Dedication:"  indicate "NumPy"
   - For "Please notify the following person that a donation has been made:" indicate "berlin@wimlds.org"
 
 ### Women's Space
