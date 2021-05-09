@@ -56,6 +56,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 * Matti Picus (https://github.com/mattip)
 * Ross Barnowski (https://github.com/rossbar)
 * Ralf Gommers (https://github.com/rgommers)
+* Sebastian Berg (https://github.com/seberg)
 
 
 ---
