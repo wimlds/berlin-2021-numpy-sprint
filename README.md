@@ -61,9 +61,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 * Matti Picus (https://github.com/mattip)
 * Ross Barnowski (https://github.com/rossbar)
 * Ralf Gommers (https://github.com/rgommers)
-* Sebastian
-
-https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord
+* Sebastian Berg (https://github.com/seberg)
 
 ---
 
