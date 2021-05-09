@@ -28,13 +28,13 @@ The [slides from the pre-sprint event](https://drive.google.com/file/d/1QOJZbdFu
 
 
 ## Post-sprint
-* Post-event feedback survey: https://docs.google.com/forms/d/1xDyHKPsrOM4RktfIk2y6TZTcUOBWppD6eQI3rLroNUg
+Please fill out our Post-sprint feedback survey:
+* https://docs.google.com/forms/d/1xDyHKPsrOM4RktfIk2y6TZTcUOBWppD6eQI3rLroNUg
 
 For continued support and following up on your pull requests:
 * Reach out to NumPy on their [mailing-list](https://mail.python.org/mailman/listinfo/numpy-discussion) or [GitHub](https://github.com/numpy/numpy).  
 * Open an issue or comment on an [issue](https://github.com/numpy/numpy/issues).
 * NumPy also invites participants to join their bi-weekly community meetings, Slack channel and "newcomer's hour".  Email them for an invitation here: numpy-team@googlegroups.com
-
 * If you haven't already, we also recommend you join our WiMLDS Slack group.  Email us here: berlin@wimlds.org and we'll send you an invite, then be sure to join our #meetup-berlin channel for local news and updates
 
 ----
@@ -104,7 +104,7 @@ Discord is a voice, text and video communication platform that allows us to set 
 We are using the [Mentored Sprints](https://www.mentored-sprints.dev/) Server on Discord for the sprint to help mentors support participants and enable us to pair program. 
 Participants will be invited to join and connect via the Discord Server during the pre-sprint setup.
 
-A beginners guide to discord can be found here(https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
+A beginners guide to discord can be found [here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
 
 Join the WiMLDS community and NumPy on Slack
 Participants will be invited and encouraged to join both WiMLDS and NumPy on Slack for continued support. See links above under the heading *post-sprint.
@@ -133,8 +133,8 @@ These steps will be covered at the pre-sprint set up (May 4th 7pm CET).
 * Take a look through the issues and become familiar with them 
 
 ### 5.  Curated List of Issues
-- A list of documentation issues was highlighted by the mentors during the sprint. You can find it [here](https://hackmd.io/8fVV6kztR2WBQZRvoCRK9Q?both) along with other useful tips on how to submit a commit and ultimate PR.
-- A sub-set of issues were labelled with sprint-wimlds on the numpy git-repo [here](https://github.com/numpy/numpy.org/issues?q=is%3Aissue+is%3Aopen+label%3Asprint-wimlds).
+* A list of documentation issues was highlighted by the mentors during the sprint. You can find it [here](https://hackmd.io/8fVV6kztR2WBQZRvoCRK9Q?both) along with other useful tips on how to submit a commit and ultimate PR.
+* A sub-set of issues were labelled with sprint-wimlds on the numpy git-repo [here](https://github.com/numpy/numpy.org/issues?q=is%3Aissue+is%3Aopen+label%3Asprint-wimlds).
 
 ## Get Sprinting! (aka fixing Issues and submitting a PR!)
 Here are a few more useful links and guides to follow:
