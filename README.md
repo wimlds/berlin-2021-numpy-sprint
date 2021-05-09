@@ -57,12 +57,16 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct).
 * Sunayana Ghosh (Berlin WiMLDS Organizer) (berlin@wimlds.org)
 
 ### NumPy Experts (Mentors/Core Contributors)
+NumPy is a library that is used around the world.  Open source sprints are typically limited to where contributors live or where major conferences are held.  We are fortunate to have support from several Numpy contributors: 
 * Melissa Mendonca (https://github.com/melissawm)
 * Matti Picus (https://github.com/mattip)
 * Ross Barnowski (https://github.com/rossbar)
 * Ralf Gommers (https://github.com/rgommers)
 * Sebastian Berg (https://github.com/seberg)
 
+### Mentored Sprints
+[Mentored Sprints](https://mentored-sprints.netlify.app/) was created in an open effort to tackle some diversity and inclusion issues in the open-source community.  They have been very supportive of us and this sprint, hosting us on their discord server. 
+* Tania Allard (https://www.mentored-sprints.dev/team/)
 ---
 
 ## Purpose of Sprint
@@ -122,8 +126,6 @@ These steps will be covered at the pre-sprint set up (May 4th 7pm CET).
 - Read through the recommended [development workflow](https://numpy.org/devdocs/dev/development_workflow.html)
 - Read through how-to [guide to contributing to NumPy documentation](https://numpy.org/devdocs/dev/howto-docs.html)
 
-
-
 ### 4.  Review [Open Issues](https://github.com/numpy/numpy/issues) 
 * [NumPy repository](https://github.com/numpy/numpy)
 * There are over 2000 issues :sweat:
@@ -136,6 +138,8 @@ These steps will be covered at the pre-sprint set up (May 4th 7pm CET).
 * A list of documentation issues was highlighted by the mentors during the sprint. You can find it [here](https://hackmd.io/8fVV6kztR2WBQZRvoCRK9Q?both) along with other useful tips on how to submit a commit and ultimate PR.
 * A sub-set of issues were labelled with sprint-wimlds on the numpy git-repo [here](https://github.com/numpy/numpy.org/issues?q=is%3Aissue+is%3Aopen+label%3Asprint-wimlds).
 
+---
+
 ## Get Sprinting! (aka fixing Issues and submitting a PR!)
 Here are a few more useful links and guides to follow:
 ### Documentation Issues
@@ -147,6 +151,14 @@ If you worked in a pair/group and want to know how to acknowledge multiple autho
 ### Labelling commit messages
 Commit messages should be clear and follow a few basic rules. Please try to label your commits with an indicative label.  A guide to best practice can be found [here](https://numpy.org/devdocs/dev/development_workflow.html?highlight=commit message#writing-the-commit-message)
  
+ ## More useful links/resources:
+- Numpy contributor Matti Picus's getting involved with Numpy talk for Data Umbrella: https://youtu.be/lHJqOE5j6xE
+- Melissa Weber's Talk: Sphinx for Python Documentation: https://youtu.be/tXWscUSYdBs
+- Reshama Shaikh's intro to git: https://github.com/reshamas/git-intro-workshop
+- A guide to making open source contributions, for first-timers and for veterans: https://opensource.guide/how-to-contribute/
+- A guide to pair-programming: https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389
+- Mentored Sprints Community Handbook: https://mentored-sprints.netlify.app/
+
 ---
 # Taking Notes for Blog
 If you would like to blog about the event, email us (berlin@wimlds.org) and we would be happy to share and promote the blog with our community. 
